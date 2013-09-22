@@ -1,0 +1,16 @@
+title : PoP部
+tagline: We are tossed by the waves of pain and tears.
+author :
+  name : CroCustos
+  email : lasteth@gmail.com
+  github : lasteth
+  twitter : CroCustos
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
